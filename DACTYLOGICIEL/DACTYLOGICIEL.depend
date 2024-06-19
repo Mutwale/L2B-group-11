@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1718652186 source:d:\l2\c\dactylogiciel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	<windows.h>
+	"CentreTexte.h"
+	"deroulement.h"
+	"aide.h"
+	"config.h"
+	"ecran.h"
+
+1718455101 d:\l2\c\dactylogiciel\centretexte.h
+
+1718653374 d:\l2\c\dactylogiciel\deroulement.h
+
+1718456952 d:\l2\c\dactylogiciel\aide.h
+
+1718654143 d:\l2\c\dactylogiciel\config.h
+
+1718457743 d:\l2\c\dactylogiciel\ecran.h
+
